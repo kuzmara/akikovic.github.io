@@ -1,0 +1,122 @@
+body 	{background-image: url("https://poweroffitness.com/wp-content/uploads/2019/06/girl-1920x1080-fitness-exercise-gym-dumbbells-workout-sportswear-11081.jpg"); 
+		background-attachment: fixed;
+		}
+.uvod {background-color:
+		}
+.naslov {font-size: 60px;
+		font-family: arial;
+		padding-left: 30px;
+		padding-bottom: 5px;
+		margin-right: 500px;
+		margin-left: 600px;
+		text-shadow: 2px 3px gray;
+		letter-spacing: 3px;
+		color: black;
+		background-color:white;
+		border-radius: 5px;
+		
+border: solid 5px black;
+opacity: 0.9;
+	}
+.levo { opacity: 0.9;
+	background-color: black ;
+			border-radius: 5px;
+		background-color: white;
+		width: 1000px;
+		margin-left: 475px;
+		color: black;
+		border: solid 5px black;
+	}
+
+.noge { border: solid 5px black;
+	padding: 20px;
+    margin-top: 20px;
+    	background-color: white;
+    	color: black;
+			width: 920px;
+		opacity: 0.9;
+			border-radius: 8px;
+			float: left;
+			margin-top: 20px;
+			margin-left: 500px;
+			margin-bottom: 50px;}
+
+ .ramena {border: solid 5px black;
+ padding: 20px;
+    margin-top: 20px;
+    	background-color: white;
+    	color: black;
+			width: 920px;
+		opacity: 0.9;
+			border-radius: 8px;
+			float: left;
+			margin-top: 20px;
+			margin-left: 500px;
+			margin-bottom: 50px;}
+
+.relax {
+	border: solid 5px black;
+	padding: 20px;
+    margin-top: 20px;
+    	background-color: white;
+    	color: black;
+			width: 920px;
+		opacity: 0.9;
+			border-radius: 8px;
+			float: left;
+			margin-top: 20px;
+			margin-left: 500px;
+			margin-bottom: 50px;}
+
+.ledja {border: solid 5px black;
+	padding: 20px;
+    margin-top: 20px;
+    	background-color: white;
+    	color: black;
+			width: 920px;
+		opacity: 0.9;
+			border-radius: 8px;
+			float: left;
+			margin-top: 20px;
+			margin-left: 500px;
+			margin-bottom: 50px;}
+.grudi{
+border: solid 5px black;
+	padding: 20px;
+    margin-top: 20px;
+    	background-color: white;
+    	color: black;
+			width: 920px;
+		opacity: 0.9;
+			border-radius: 8px;
+			float: left;
+			margin-top: 20px;
+			margin-left: 500px;
+			margin-bottom: 50px;}
+.ruke {
+border: solid 5px black;
+	padding: 20px;
+    margin-top: 20px;
+    	background-color: white;
+    	color: black;
+			width: 920px;
+		opacity: 0.9;
+			border-radius: 8px;
+			float: left;
+			margin-top: 20px;
+			margin-left: 500px;
+			margin-bottom: 50px;}
+.odmor {
+border: solid 5px black;
+	padding: 20px;
+    margin-top: 20px;
+    	background-color: white;
+    	color: black;
+			width: 920px;
+		opacity: 0.9;
+			border-radius: 8px;
+			float: left;
+			margin-top: 20px;
+			margin-left: 500px;
+			margin-bottom: 50px;}
+
